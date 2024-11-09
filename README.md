@@ -1,4 +1,4 @@
-# 👋🏻 Hi! I'm [Yejin LEE] 
+# 👋🏻 Hi! I'm [Yejin LEE] 
 
 ✨ **디자이너 | UX/UI**  
 ✨ **협업과 유저 친화적 문제 해결을 즐깁니다!**
