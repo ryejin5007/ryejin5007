@@ -20,5 +20,5 @@
 ---
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Behance](https://www.behance.net/yourprofile)
+- [LinkedIn]()
+- [Behance](https://www.behance.net/722f982c)
